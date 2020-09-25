@@ -5,13 +5,13 @@
       "title": "Margaritta",
       "price": 15,
       "details": "Accedat huc suavitas quaedam oportet sermonum atque morum",
-      "imageLink": "https://drive.google.com/file/d/1aWjxL7uYgZhRFOVY__9LXa5XVbZthHzg/view",
+      "imageLink": "https://petitboutdechou.fr/wp-content/uploads/2019/04/pizza8.png",
       "ingredients": [
         {
           "name": "Olive",
           "diameter": 0.1,
           "imageLink": "https://image.shutterstock.com/image-photo/delicious-green-olives-leaves-isolated-260nw-1148058713.jpg",
-          "imageSliceLink": "https://drive.google.com/file/d/1uOMDKMpbtWU_fI6pZYu9XWyxpAL2vV1R/view",
+          "imageSliceLink": "https://cdn.iconscout.com/icon/premium/png-256-thumb/olive-24-759532.png",
           "defaultAmount": 25,
           "max": 40
         }
