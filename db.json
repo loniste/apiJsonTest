@@ -11,7 +11,7 @@
           "name": "Olive",
           "diameter": 0.1,
           "imageLink": "https://image.shutterstock.com/image-photo/delicious-green-olives-leaves-isolated-260nw-1148058713.jpg",
-          "imageSliceLink": "https://drive.google.com/file/d/1uOMDKMpbtWU_fI6pZYu9XWyxpAL2vV1R/view"
+          "imageSliceLink": "https://drive.google.com/file/d/1uOMDKMpbtWU_fI6pZYu9XWyxpAL2vV1R/view",
           "defaultAmount": 25,
           "max": 40
         }
