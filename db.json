@@ -9,7 +9,7 @@
       "ingredients": [
         {
           "name": "Olive",
-          "diameter": 0.05,
+          "diameter": 0.08,
           "imageLink": "https://image.shutterstock.com/image-photo/delicious-green-olives-leaves-isolated-260nw-1148058713.jpg",
           "imageSliceLink": "https://cdn.iconscout.com/icon/premium/png-256-thumb/olive-24-759532.png",
           "defaultAmount": 25,
