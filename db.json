@@ -9,9 +9,17 @@
       "ingredients": [
         {
           "name": "Olive",
-          "diameter": 0.1,
+          "diameter": 0.05,
           "imageLink": "https://image.shutterstock.com/image-photo/delicious-green-olives-leaves-isolated-260nw-1148058713.jpg",
           "imageSliceLink": "https://cdn.iconscout.com/icon/premium/png-256-thumb/olive-24-759532.png",
+          "defaultAmount": 25,
+          "max": 40
+        },
+         {
+          "name": "Mushroom",
+          "diameter": 0.1,
+          "imageLink": "https://d1nhio0ox7pgb.cloudfront.net/_img/g_collection_png/standard/256x256/mushroom.png",
+          "imageSliceLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSUd0IzPvESxx3eiaAblK59kUu-sOZwGhpjCQ&usqp=CAU",
           "defaultAmount": 25,
           "max": 40
         }
