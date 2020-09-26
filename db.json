@@ -1,11 +1,12 @@
 {
-  "pizza": [
+  "pizzas": [
     {
       "stars": 0.5,
       "title": "Demo",
       "price": 15,
       "details": "Accedat huc suavitas quaedam oportet sermonum atque morum",
-      "imageLink": "https://petitboutdechou.fr/wp-content/uploads/2019/04/pizza8.png",
+      "imageInShowRoomLink": "https://petitboutdechou.fr/wp-content/uploads/2019/04/pizza8.png",
+      "imageGrossLink": "https://petitboutdechou.fr/wp-content/uploads/2019/04/pizza8.png",
       "ingredients": [
         {
           "name": "Olive",
@@ -30,7 +31,8 @@
       "title": "Margaritta",
       "price": 15,
       "details": "Accedat huc suavitas quaedam oportet sermonum atque morum",
-      "imageLink": "https://321restogo.000webhostapp.com/pizzaMargaritta.png",
+      "imageInShowRoomLink": "https://321restogo.000webhostapp.com/pizzaMargaritta.png",
+      "imageGrossLink": "https://321restogo.000webhostapp.com/pizzaMargaritta.png",
       "ingredients": [
         {
           "name": "Olive",
