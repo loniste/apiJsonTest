@@ -1,55 +1,30 @@
 {
   "pizzas": [
-    {
-      "stars": 0.5,
-      "title": "Demo",
-      "price": 15,
-      "details": "Accedat huc suavitas quaedam oportet sermonum atque morum",
-      "imageInShowRoomLink": "https://petitboutdechou.fr/wp-content/uploads/2019/04/pizza8.png",
-      "imageGrossLink": "https://petitboutdechou.fr/wp-content/uploads/2019/04/pizza8.png",
-      "ingredients": [
-        {
-          "name": "Olive",
-          "diameter": 0.08,
-          "imageLink": "https://image.shutterstock.com/image-photo/delicious-green-olives-leaves-isolated-260nw-1148058713.jpg",
-          "imageSliceLink": "https://cdn.iconscout.com/icon/premium/png-256-thumb/olive-24-759532.png",
-          "defaultAmount": 25,
-          "max": 40
-        },
-         {
-          "name": "Mushroom",
-          "diameter": 0.1,
-          "imageLink": "https://d1nhio0ox7pgb.cloudfront.net/_img/g_collection_png/standard/256x256/mushroom.png",
-          "imageSliceLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSUd0IzPvESxx3eiaAblK59kUu-sOZwGhpjCQ&usqp=CAU",
-          "defaultAmount": 25,
-          "max": 40
-        }
-      ]
-    },
-    {
+     {
       "stars": 4.3,
       "title": "Margaritta",
       "price": 15,
-      "details": "Accedat huc suavitas quaedam oportet sermonum atque morum",
-      "imageInShowRoomLink": "https://321restogo.000webhostapp.com/pizzaMargarittaShowRoom.png",
-      "imageGrossLink": "https://321restogo.000webhostapp.com/pizzaMargaritta.png",
+      "details": "https://321restogo.000webhostapp.com/pizzaType1.png",
+      "imageInShowRoomLink": "https://321restogo.000webhostapp.com/pizzaType1.png",
+      "imageGrossLink": "https://321restogo.000webhostapp.com/pizzaType1.png",
       "ingredients": [
         {
           "name": "Olive",
           "diameter": 0.08,
-          "imageLink": "https://image.shutterstock.com/image-photo/delicious-green-olives-leaves-isolated-260nw-1148058713.jpg",
-          "imageSliceLink": "https://321restogo.000webhostapp.com/olive_slice.png",
+          "imageLink": "https://321restogo.000webhostapp.com/ingredients/olive.png",
+          "imageSliceLink": "https://321restogo.000webhostapp.com/ingredients/olive_slice.png",
           "defaultAmount": 25,
           "max": 40
         },
          {
           "name": "Mushroom",
           "diameter": 0.1,
-          "imageLink": "https://d1nhio0ox7pgb.cloudfront.net/_img/g_collection_png/standard/256x256/mushroom.png",
-          "imageSliceLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSUd0IzPvESxx3eiaAblK59kUu-sOZwGhpjCQ&usqp=CAU",
+          "imageLink": "https://321restogo.000webhostapp.com/ingredients/mushroom.png",
+          "imageSliceLink": "https://321restogo.000webhostapp.com/ingredients/mushroom_cut.png",
           "defaultAmount": 25,
           "max": 40
         }
+   
       ]
     }
   ]
