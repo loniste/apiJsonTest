@@ -20,7 +20,15 @@
           "name": "Mushroom",
           "diameter": 0.1,
           "imageLink": "https://321restogo.000webhostapp.com/ingredients/mushroom.png",
-          "imageSliceLink": "https://321restogo.000webhostapp.com/ingredients/mushroom_cut.png",
+          "imageSliceLink": "https://321restogo.000webhostapp.com/ingredients/mushroom_slice.png",
+          "defaultAmount": 25,
+          "max": 40
+        },
+        {
+          "name": "Pepper",
+          "diameter": 0.1,
+          "imageLink": "https://321restogo.000webhostapp.com/ingredients/pepper.png",
+          "imageSliceLink": "https://321restogo.000webhostapp.com/ingredients/pepper_slice.png",
           "defaultAmount": 25,
           "max": 40
         }
