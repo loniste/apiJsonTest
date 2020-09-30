@@ -31,7 +31,17 @@
           "imageSliceLink": "https://321restogo.000webhostapp.com/ingredients/pepper_slice.png",
           "defaultAmount": 4,
           "max": 13
+        },
+        ,
+        {
+          "name": "Tomatoe",
+          "diameter": 0.15,
+          "imageLink": "https://321restogo.000webhostapp.com/ingredients/tomatoe.png",
+          "imageSliceLink": "https://321restogo.000webhostapp.com/ingredients/tomatoe_slice.png",
+          "defaultAmount": 4,
+          "max": 13
         }
+      
    
       ]
     },
