@@ -4,7 +4,7 @@
       "stars": 4.3,
       "title": "Margaritta",
       "price": 15,
-      "details": "https://321restogo.000webhostapp.com/pizzaType1.png",
+      "details": "existimans factum aut cogitatum, insontium caedibus fecit victoriam luctuosam.",
       "imageInShowRoomLink": "https://321restogo.000webhostapp.com/pizzaType1.png",
       "imageGrossLink": "https://321restogo.000webhostapp.com/pizzaType1.png",
       "ingredients": [
@@ -34,6 +34,91 @@
         }
    
       ]
+    },
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    {
+      "stars": 3.3,
+      "title": "pizzaType2",
+      "price": 20,
+      "details": "Utque aegrum corpus quassari etiam levibus solet offensis, ita animus eius angustus et tener",
+      "imageInShowRoomLink": "https://321restogo.000webhostapp.com/pizzaType2.png",
+      "imageGrossLink": "https://321restogo.000webhostapp.com/pizzaType2.png",
+      "ingredients": [
+        {
+          "name": "Olive",
+          "diameter": 0.08,
+          "imageLink": "https://321restogo.000webhostapp.com/ingredients/olive.png",
+          "imageSliceLink": "https://321restogo.000webhostapp.com/ingredients/olive_slice2.png",
+          "defaultAmount": 25,
+          "max": 40
+        },
+         {
+          "name": "Mushroom",
+          "diameter": 0.1,
+          "imageLink": "https://321restogo.000webhostapp.com/ingredients/mushroom.png",
+          "imageSliceLink": "https://321restogo.000webhostapp.com/ingredients/mushroom_slice.png",
+          "defaultAmount": 25,
+          "max": 40
+        },
+        {
+          "name": "Pepper",
+          "diameter": 0.15,
+          "imageLink": "https://321restogo.000webhostapp.com/ingredients/pepper.png",
+          "imageSliceLink": "https://321restogo.000webhostapp.com/ingredients/pepper_slice.png",
+          "defaultAmount": 25,
+          "max": 40
+        }
+   
+      ]
+    },
+    
+    
+    
+    
+    
+    
+    
+    {
+      "stars": 3.3,
+      "title": "pizzaType3",
+      "price": 30,
+      "details": "Cumque pertinacius ut legum gnarus accusatorem flagitaret atque sollemnia",
+      "imageInShowRoomLink": "https://321restogo.000webhostapp.com/pizzaType3.png",
+      "imageGrossLink": "https://321restogo.000webhostapp.com/pizzaType3.png",
+      "ingredients": [
+        {
+          "name": "Olive",
+          "diameter": 0.08,
+          "imageLink": "https://321restogo.000webhostapp.com/ingredients/olive.png",
+          "imageSliceLink": "https://321restogo.000webhostapp.com/ingredients/olive_slice2.png",
+          "defaultAmount": 25,
+          "max": 40
+        },
+        {
+          "name": "Pepper",
+          "diameter": 0.15,
+          "imageLink": "https://321restogo.000webhostapp.com/ingredients/pepper.png",
+          "imageSliceLink": "https://321restogo.000webhostapp.com/ingredients/pepper_slice.png",
+          "defaultAmount": 25,
+          "max": 40
+        }
+   
+      ]
     }
+    
+    
+    
+    
+    
+    
+    
   ]
 }
