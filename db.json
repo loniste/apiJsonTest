@@ -205,17 +205,99 @@
    
       ]
     }
+    
+  ],
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  "yamalachamJSON":
+  
+  
+  
+  
+  {
+"version":1.0,
+"categories": [{
+"id": 1,
+"name":"cat1",
+"nameAr": "cat1",
+"nameFr": "cat1",
+"products": [
+                 {
+                    "id": 1,
+                    "name":"product 1",
+                    "nameAr": "product 1",
+                    "nameFr": "product 1", 
+                    "desc" :"desc1",
+                    "descAr" :"desc1",
+                    "descFr" :"desc1",
+                    "price" :"price1",
+                    "picturePath": "some path"
+
+                   },
+                   {
+                    "id": 2,
+                    "name":"product 2",
+                    "nameAr": "product 2",
+                    "nameFr": "product 2", 
+                    "desc" :"desc2",
+                    "descAr" :"desc2",
+                    "descFr" :"desc2",
+                    "price" :"price2",
+                    "picturePath": "some path2"
+
+                    }
+]
+},
+{
+"id": 2,
+"name":"cat1",
+"nameAr": "cat1",
+"nameFr": "cat1",
+"products": [
+                 {
+                    "id": 3,
+                    "name":"product 3",
+                    "nameAr": "product 3",
+                    "nameFr": "product 3", 
+                    "desc" :"desc3",
+                    "descAr" :"desc3",
+                    "descFr" :"desc3",
+                    "price" :"price3",
+                    "picturePath": "some path3"
+
+                   },
+                   {
+                    "id": 4,
+                    "name":"product 4",
+                    "nameAr": "product 4",
+                    "nameFr": "product 4", 
+                    "desc" :"desc4",
+                    "descAr" :"desc4",
+                    "descFr" :"desc4",
+                    "price" :"price4",
+                    "picturePath": "some path4"
+
+                    }
+]
+}
 
 
-
-
-
-    
-    
-    
-    
-    
-    
-    
-  ]
+]}
+  
+  
+  
+  
+  
+  
 }
