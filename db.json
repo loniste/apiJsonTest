@@ -22,7 +22,7 @@
                     "descAr" :"desc1",
                     "descFr" :"desc1",
                     "price" :"price1",
-  "picturePath": "https://cdn-elle.ladmedia.fr/var/plain_site/storage/images/elle-a-table/fiches-cuisine/tous-les-themes/plats/45279226-4-fre-FR/Recettes-Plats.jpg"
+                    "picturePath": "https://cdn-elle.ladmedia.fr/var/plain_site/storage/images/elle-a-table/fiches-cuisine/tous-les-themes/plats/45279226-4-fre-FR/Recettes-Plats.jpg"
 
                    },
                    {
@@ -34,9 +34,46 @@
                     "descAr" :"desc2",
                     "descFr" :"desc2",
                     "price" :"price2",
-                    "picturePath": "https://images.ricardocuisine.com/services/recipes/1074x1074_8119-cover.jpg"
+                    "picturePath": "https://cdn.pixabay.com/photo/2015/12/09/01/02/mandalas-1084082__340.jpg"
+
+                    },
+     {
+                    "id": 3,
+                    "name":"product 3",
+                    "nameAr": "product 3",
+                    "nameFr": "product 3", 
+                    "desc" :"desc3",
+                    "descAr" :"desc3",
+                    "descFr" :"desc3",
+                    "price" :"price3",
+                    "picturePath": "https://img.freepik.com/free-vector/colorful-palm-silhouettes-background_23-2148541792.jpg?size=626&ext=jpg"
+
+                    },
+     {
+                    "id": 4,
+                    "name":"product 4",
+                    "nameAr": "product 4",
+                    "nameFr": "product 4", 
+                    "desc" :"desc4",
+                    "descAr" :"des44",
+                    "descFr" :"desc4",
+                    "price" :"price4",
+                    "picturePath": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYxIe5h7w2eP2mwDuLcRXzrPoo9BWH0sOkHQ&usqp=CAU"
+
+                    },
+      {
+                    "id": 5,
+                    "name":"product 5",
+                    "nameAr": "product 5",
+                    "nameFr": "product 5", 
+                    "desc" :"desc5",
+                    "descAr" :"des45",
+                    "descFr" :"desc5",
+                    "price" :"price5",
+                    "picturePath": "https://images.pexels.com/photos/1072179/pexels-photo-1072179.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
 
                     }
+    
 ]
 },
 {
