@@ -232,6 +232,7 @@
 "name":"cat1",
 "nameAr": "cat1",
 "nameFr": "cat1",
+  "picturePath": "somePath",
 "products": [
                  {
                     "id": 1,
@@ -264,6 +265,7 @@
 "name":"cat1",
 "nameAr": "cat1",
 "nameFr": "cat1",
+  "picturePath": "somePath",
 "products": [
                  {
                     "id": 3,
