@@ -84,7 +84,7 @@
   "picturePath": "https://cdn-elle.ladmedia.fr/var/plain_site/storage/images/elle-a-table/fiches-cuisine/tous-les-themes/recettes-de-plats-faciles/90013830-1-fre-FR/Recettes-de-plats-faciles.jpg",
 "products": [
                  {
-                    "id": 3,
+                    "id": 6,
                     "name":"product 3",
                     "nameAr": "product 3",
                     "nameFr": "product 3", 
@@ -96,7 +96,7 @@
 
                    },
                    {
-                    "id": 4,
+                    "id": 7,
                     "name":"product 4",
                     "nameAr": "product 4",
                     "nameFr": "product 4", 
